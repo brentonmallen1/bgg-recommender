@@ -1,0 +1,16 @@
+name: bgg-recommender
+dependencies:
+- jupyter
+- pip
+- python=3
+- pip:
+  - ipython
+  - numpy
+  - pandas
+  - boto3
+  - regex
+  - tqdm
+  - seaborn
+  - scikit-learn
+  - datasketch
+  - boardgamegeek2
