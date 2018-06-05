@@ -21,3 +21,10 @@ b['desc'] = b.desc.apply(lambda x: str(x).replace("Description from the publishe
     ...: , "").replace('\n', ' ').strip())
 
 ```
+
+
+## References
+1. https://www.kaggle.com/gspmoreira/recommender-systems-in-python-101
+1. https://cambridgespark.com/content/tutorials/implementing-your-own-recommender-systems-in-Python/index.html
+1. https://beckernick.github.io/matrix-factorization-recommender/
+1. https://github.com/lcosmin/boardgamegeek
