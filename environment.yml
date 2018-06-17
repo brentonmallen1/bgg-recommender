@@ -14,3 +14,5 @@ dependencies:
   - scikit-learn
   - datasketch
   - boardgamegeek2
+  - nltk
+  - tqdm
